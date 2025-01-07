@@ -1,0 +1,1 @@
+Projeto de estudo de implementação do Vulkan utilizando GLFW.
